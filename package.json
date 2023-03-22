@@ -3,6 +3,7 @@
   "version": "3.0.0",
   "private": true,
   "dependencies": {
+    "@thirdweb-dev/contracts": "^3.4.5",
     "@thirdweb-dev/react": "^3.5.1",
     "@thirdweb-dev/sdk": "^3.5.1",
     "ethers": "^5.6.6",
